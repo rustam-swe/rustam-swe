@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on custom CRM system for real estate developer. Whole system is written in pure PHP.
+- 🌱 I’m currently learning GO.
 <!--
 **alphasider/alphasider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
