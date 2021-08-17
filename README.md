@@ -3,7 +3,14 @@
 
 - 🔭 I’m currently working on custom CRM system for real estate developer. Whole system is written in pure PHP.
 - 😎 Currently learning GO.
-- 👨‍🏫 Also working on a backend developer course for beginners
+- 👨‍🏫 Also working on a backend developer course for beginners in collaboration with [TEHNIKUM](https://tehnikum.school/) School
+
+
+---
+[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphasider&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rustam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alphasider&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 
 ### Get in touch:
