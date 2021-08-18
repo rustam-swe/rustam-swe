@@ -7,9 +7,9 @@
 
 
 ---
-[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphasider&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphasider&count_private=true&show_icons=true&theme=react)](#)
 
-[![Rustam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alphasider&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Rustam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alphasider&layout=compact&theme=react)](https://wakatime.com/@alphasider)
 ---
 
 
@@ -21,7 +21,7 @@
 
 <br />
 
-#### 🧾 Full resume in russian could be found [here](https://is.gd/jFoT71 "Resume")
+#### 🧾 Подробное резюме можно посмотреть [здесь](https://is.gd/jFoT71 "Резюме")
 #### 🚧 Full resume in english could be found [here](https://is.gd/918Nh0 "Resume") (outdated)
 
 [telegram]: https://t.me/ergashev_rustam
