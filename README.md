@@ -1,8 +1,8 @@
-[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphasider&count_private=true&show_icons=true&theme=react)](#)
+[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustam-swe&count_private=true&show_icons=true&theme=react)](#)
 
 [![Rustam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alphasider&layout=compact&theme=react)](https://wakatime.com/@alphasider)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphasider&layout=compact&theme=react&langs_count=6)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustam-swe&layout=compact&theme=react&langs_count=6)](#)
 
 ---
 
